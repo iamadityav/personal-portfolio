@@ -59,7 +59,7 @@ export const Banner = () => {
                 <h1>{`Hi! I'm Aditya Verma`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer", "Java Coder", "UI/UX Designer" ]'><span className="wrap">{text}</span></span></h1>
                   <p>Future engineer and lifelong humanitarian. I'm a Fourth year student
 at G.L. bajaj institute of technology with a dream to learn more and
-more about tech. This passion about Tech led me to pursue a carrier
+more about tech. This passion about Tech led me to pursue a career
 in Engineering.</p>
                   <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
               </div>}
